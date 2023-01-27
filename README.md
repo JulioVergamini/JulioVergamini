@@ -1,16 +1,20 @@
-### Hi there 👋
+## Opa!
+   ## Eu sou o Julio Vergamini e pretendo mostrar oque eu sei fazer!🖐
 
-<!--
-**JulioVergamini/JulioVergamini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Meu Github](https://github.com/JulioVergamini)
+![Meu Linkedin](https://www.linkedin.com/in/julio-cesar-911706256/)
 
-Here are some ideas to get you started:
+## Tecnologias que eu uso no meu dia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block">
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+</div><br/>
+
+Interesse grande pela área de tecnologias, focado em aprender o máximo de toda área de programação, estou estudando agora e acredito que todos tenham saido de algum lugar!.
+
+### Estudos:
+- [HTML5 / Css3]<br/>
+- [JavaScript].<br/>
