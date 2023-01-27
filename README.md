@@ -1,8 +1,8 @@
 ## Opa!
    ## Eu sou o Julio Vergamini e pretendo mostrar oque eu sei fazer!🖐
 
-![Meu Github](https://github.com/JulioVergamini)
-![Meu Linkedin](https://www.linkedin.com/in/julio-cesar-911706256/)
+![Github](https://github.com/JulioVergamini)
+![Linkedin](https://www.linkedin.com/in/julio-cesar-911706256/)
 
 ## Tecnologias que eu uso no meu dia
 
