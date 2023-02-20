@@ -16,6 +16,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulioVergamini&layout=compact_dark)](https://github.com/JulioVergamini/github-readme-stats)
 
+<br>
 
 ## ✔️Já tive experiência nas linguagens:
 
@@ -32,5 +33,5 @@
 ## 🔍Entra em contato comigo ou conheça-me mais:
  <br>
  <a href = "https://github.com/JulioVergamini"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-  <a href="juliocesarvergamini@gmail.com
-" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="www.linkedin.com/in/juliovergamini" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="www.linkedin.com/in/juliovergamini" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
