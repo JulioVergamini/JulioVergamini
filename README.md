@@ -1,7 +1,7 @@
-## Eu sou o Julio Vergamini Seja-Bem-Vindo(a) ao meu GitHub 👋💻
+## Eu sou o Julio Vergamini Seja-Bem-Vindo(a) ao meu GitHub 💡🖥️
 <br/>
 
-## ✨Informações sobre meu GitHub:
+## ★ Informações sobre meu GitHub:
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=JulioVergamini&show_icons=true&theme=midnight-purple"
@@ -24,7 +24,7 @@
   <img align="center" alt="Julio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div><br/>
 
-### Estudando:
+### 🎓Estudando:
 - <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=black" /><br/>
 - <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=black" /><br/>
 - <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><br/>
